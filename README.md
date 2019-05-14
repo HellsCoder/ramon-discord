@@ -1,2 +1,2 @@
 # ramon-discord
-npm install for start usage
+Ramon.Discord for fast creating discord bots.
